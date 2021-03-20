@@ -12,5 +12,6 @@
 3. GPU acceleration using PyTorch
 4. ResNet implementation using PyTorch
 5. Generative adversarial network using PyTorch
+6. Outputing model to TorchScript for use in C++
 
 Based on notebooks from [JovianML](https://jovian.ml/aakashns/01-pytorch-basics).
